@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Doorduino</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="button_up">Door Up</string>
+    <string name="button_down">Door Down</string>
+    <string name="button_light">Light Control</string>
+    <string name="button_connect">Connect</string>
+</resources>
